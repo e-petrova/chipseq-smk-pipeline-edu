@@ -1,4 +1,4 @@
-# Into
+# Intro
 
 A simple pipeline for educational purposes. The pipeline:
 * aligns Chip-Seq single-end data
@@ -62,3 +62,7 @@ with outputs marked as `temp(..)`:
 ```shell
 snakemake --cores 8 --use-conda --touch --forceall
 ```
+
+**Check the results**
+
+https://drive.google.com/drive/folders/1KhWDRF8THyh_BOv1gxsaii1T6kX_l4Rx?usp=sharing
