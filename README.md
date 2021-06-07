@@ -63,6 +63,9 @@ with outputs marked as `temp(..)`:
 snakemake --cores 8 --use-conda --touch --forceall
 ```
 
-**Check the results**
+# Check the results
 
 https://drive.google.com/drive/folders/1KhWDRF8THyh_BOv1gxsaii1T6kX_l4Rx?usp=sharing
+
+<img width="1271" alt="Screenshot 2021-06-07 at 20 27 09" src="https://user-images.githubusercontent.com/49125941/121066300-65358d00-c7d2-11eb-9375-31f0ffcddf9a.png">
+
